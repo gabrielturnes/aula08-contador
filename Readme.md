@@ -6,5 +6,5 @@ Contador simples que possui as seguintes funções:
  - Incrementar
  - Incrementar *n* vezes
  - Definir um valor
- - Restar o contador
+ - Resetar o contador
  - Mostrar valor do contador
